@@ -22,12 +22,3 @@ The text editor that was used for this project was VI.
 15. [Let's move](https://github.com/issaevis/holbertonschool-shell/blob/main/basics/15-lets_move)
 16. [Clean Emacs](https://github.com/issaevis/holbertonschool-shell/blob/main/basics/16-clean_emacs)
 17. [Tree](https://github.com/issaevis/holbertonschool-shell/blob/main/basics/17-tree)
-
--
--
--
--
--
--
--
--
