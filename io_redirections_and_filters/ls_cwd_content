@@ -1,1 +1,33 @@
-total 48 drwxr-xr-x 2 root root 233 Feb 13 12:12 . drwxr-xr-x 6 root root 103 Feb 13 06:22 .. -rwxrwxrwx 1 root root 33 Feb 13 06:25 0-hello_world -rwxrwxrwx 1 root root 28 Feb 13 06:28 1-confused_smiley -rwxrwxrwx 1 root root 28 Feb 13 07:26 2-hellofile -rwxrwxrwx 1 root root 39 Feb 13 07:29 3-twofiles -rwxrwxrwx 1 root root 35 Feb 13 07:33 4-lastlines -rwxrwxrwx 1 root root 35 Feb 13 07:57 5-firstlines -rwxrwxrwx 1 root root 36 Feb 13 08:01 6-third_line ---------- 1 root root 61 Feb 13 12:07 7-file -rwxrwxrwx 1 root root 44 Feb 13 12:12 8-cwd_state -rw-r--r-- 1 root root 801 Feb 13 07:58 iacta -rw-r--r-- 1 root root 652 Feb 13 12:10 ls_cwd_content -rw-r--r-- 1 root root 29 Feb 13 07:21 README.md
+total 892
+drwxr-xr-x 2 root root   4096 Feb 15 02:54 .
+drwxr-xr-x 6 root root    103 Feb 13 06:22 ..
+-rwxrwxrwx 1 root root     33 Feb 13 06:25 0-hello_world
+-rwxrwxrwx 1 root root     48 Feb 14 07:40 10-no_more_js
+-rwxrwxrwx 1 root root     58 Feb 14 14:15 11-directories
+-rwxrwxrwx 1 root root     29 Feb 14 09:04 12-newest_files
+-rwxrwxrwx 1 root root     27 Feb 15 02:51 13-unique
+-rwxrwxrwx 1 root root     40 Feb 14 09:15 14-findthatword
+-rwxrwxrwx 1 root root     47 Feb 14 09:30 15-countthatword
+-rwxrwxrwx 1 root root     41 Feb 14 09:32 16-whatsnext
+-rwxrwxrwx 1 root root     38 Feb 14 10:19 17-hidethisword
+-rwxrwxrwx 1 root root     53 Feb 14 10:07 18-letteronly
+-rwxrwxrwx 1 root root     36 Feb 14 14:20 19-AZ
+-rwxrwxrwx 1 root root     28 Feb 13 06:28 1-confused_smiley
+-rwxrwxrwx 1 root root     34 Feb 14 11:28 20-hiago
+-rwxrwxrwx 1 root root     16 Feb 14 11:31 21-reverse
+-rwxrwxrwx 1 root root     56 Feb 14 14:48 22-users_and_homes
+-rw-r--r-- 1 root root  12288 Feb 14 14:50 .22-users_and_homes.swp
+-rw-r--r-- 1 root root     52 Feb 15 02:53 23-empty_casks
+-rwxrwxrwx 1 root root     28 Feb 13 07:26 2-hellofile
+-rwxrwxrwx 1 root root     39 Feb 13 07:29 3-twofiles
+-rwxrwxrwx 1 root root     35 Feb 13 07:33 4-lastlines
+-rwxrwxrwx 1 root root     35 Feb 13 07:57 5-firstlines
+-rwxrwxrwx 1 root root     36 Feb 13 08:01 6-third_line
+---------- 1 root root     76 Feb 15 02:51 7-file
+-rwxrwxrwx 1 root root     36 Feb 15 02:54 8-cwd_state
+-rwxrwxrwx 1 root root     37 Feb 14 07:15 9-duplicate_last_line
+-rw-r--r-- 1 root root    857 Feb 14 07:15 iacta
+-rw-r--r-- 1 root root    168 Feb 14 09:08 list
+-rw-r--r-- 1 root root      0 Feb 15 02:54 ls_cwd_content
+-rw-r--r-- 1 root root 782913 Mar  8  2022 nasa_19950801.tsv
+-rw-r--r-- 1 root root     29 Feb 13 07:21 README.md
