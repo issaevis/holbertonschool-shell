@@ -1,6 +1,6 @@
-# Project 5
+# Project 5 - Project 8
 
-This repository contains project number 5. All the files are located inside /basics.
+This repository contains project number 5, 6, 7 and 8. 
 
 ## Status
 The project is completed and all the exercises are solved.
